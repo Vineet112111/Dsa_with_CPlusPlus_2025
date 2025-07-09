@@ -76,7 +76,7 @@ Location: Basic_Math/Medium/ReverseInteger/
 ## Technologies Used
 
 - Programming Language: C++
-- IDE: VS Code / Sublime / OnlineGDB
+- IDE: VS Code 
 - Version Control: Git + GitHub
 
 ## Topics To Be Covered
